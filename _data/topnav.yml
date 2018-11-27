@@ -1,0 +1,30 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Repo
+      external_url: https://github.com/algebrafiuba/algebrafiuba.github.io
+    - title: Novedades
+      url: /news
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Links
+      folderitems:
+        - title: Descargar GNU Octave
+          external_url: https://www.gnu.org/software/octave/
+        - title: LUGFi
+          external_url: https://lugfi.github.io/acerca/
+        - title: Cursos del LABi
+          external_url: http://labi.fi.uba.ar/labi/cursos
+    - title: Secciones
+      folderitems:
+        - title: Curso Práctico de GNU/Octave
+          url: /index.html
+        - title: Aplicaciones en Ingeniería
+          url: /aplicaciones_home.html
+        - title: Documentación y Notas
+          url: /doc_home.html

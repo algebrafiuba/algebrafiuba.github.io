@@ -1,0 +1,148 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Tutorial de Octave
+  version: 1.0
+  folders:
+
+  - title: Primeros Pasos
+    output: web, pdf
+    folderitems:
+
+    - title: Introducción
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Instalación
+      url: /curso_instalacion.html
+      output: web, pdf
+
+    - title: Interfaz Gráfica
+      url: /curso_gui.html
+      output: web, pdf
+    
+    - title: Variables
+      url: /curso_variables.html
+      output: web, pdf
+      
+    - title: Vectores y Matrices
+      url: /curso_matrices.html
+      output: web, pdf
+    
+    - title: Scripts
+      url: /curso_scripts.html
+      output: web, pdf
+      
+    - title: Gráficos
+      url: /curso_plots_inicial.html
+      output: web, pdf
+    
+      subfolders:
+      - title: Ejercicios de tarea
+        output: web, pdf
+        subfolderitems:
+
+        - title: Introducción
+          url: /curso_ej1_intro.html
+          output: web, pdf
+          
+        - title: Matriz definida positiva
+          url: /curso_ej1_definida_positiva.html
+          output: web, pdf
+          
+        - title: Varianza Muestral
+          url: /curso_ej1_varianza_muestral.html
+          output: web, pdf
+      
+  - title: Sistemas de Ecuaciones
+    output: web, pdf
+    folderitems:
+
+    - title: Ecuaciones Lineales
+      url: /curso_sistemas_lineales.html
+      output: web, pdf
+      type: homepage
+
+    - title: Ecuaciones No Lineales
+      url: /curso_ecuaciones_no_lineales.html
+      output: web, pdf
+
+    - title: (Aplicación) Regresión
+      url: /curso_regresion_lineal.html
+      output: web, pdf
+    
+  - title: Ajuste
+    output: web, pdf
+    folderitems:
+
+    - title: (Introducción) Cuadrados Mínimos
+      url: /curso_cuadrados_minimos.html
+      output: web, pdf
+      type: homepage
+
+    - title: Ajuste No Lineal
+      url: /curso_ajuste_no_lineal.html
+      output: web, pdf
+      
+  - title: Bucles y Lógica
+    output: web, pdf
+    folderitems:
+    
+      - title: Bucles
+        url: /curso_bucles.html
+        output: web, pdf
+    
+        subfolders:
+        - title: Funciones
+          output: web, pdf
+          subfolderitems:
+
+          - title: Definición de Funciones
+            url: /curso_funciones.html
+            output: web, pdf
+          
+          - title: Documentación
+            url: /curso_funciones_doc.html
+            output: web, pdf
+          
+          - title: Testing
+            url: /curso_funciones_testing.html
+            output: web, pdf
+          
+  - title: Ecuaciones Diferenciales
+    output: web, pdf
+    folderitems:
+
+    - title: (Introducción) Euler
+      url: /curso_ode_introduccion.html
+      output: web, pdf
+      type: homepage
+
+    - title: Resolución sEDO con ode45
+      url: /curso_edo_ode45.html
+      output: web, pdf
+
+    - title: Elementos Finitos
+      url: /curso_edo_elementos_finitos.html
+      output: web, pdf
+          
+  - title: Aplicaciones en Ingeniería
+    output: web, pdf
+    folderitems:
+
+    - title: Ver aplicaciones
+      url: /aplicaciones_home.html
+      output: web, pdf
+      type: homepage
+    
+  - title: Documentación y Notas
+    output: web, pdf
+    folderitems:
+
+    - title: Ver Documentación y Notas
+      url: /doc_home.html
+      output: web, pdf
+      type: homepage
+    
