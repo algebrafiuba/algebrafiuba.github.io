@@ -1,11 +1,12 @@
 ---
 title: Vectores y Matrices
+permalink: curso_matrices.html
 keywords: vector, matriz
 last_updated: September 5, 2018
-tags: [getting_started]
-summary: "Definición de Vectores y Matrices, operaciones elementales y funciones básicas"
+tags:
+- getting_started
+summary: Definición de Vectores y Matrices, operaciones elementales y funciones básicas
 sidebar: curso_sidebar
-permalink: curso_matrices.html
 folder: curso
 ---
 

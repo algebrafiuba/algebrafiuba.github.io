@@ -1,11 +1,12 @@
 ---
 title: Documentación de Funciones
+permalink: curso_funciones_testing.html
 keywords: funcion, doc
 last_updated: September 6, 2018
-tags: [getting_started]
-summary: "Importancia de la Documentación, y cómo documentar"
+tags:
+- getting_started
+summary: Importancia de la Documentación, y cómo documentar
 sidebar: curso_sidebar
-permalink: curso_funciones_testing.html
 folder: curso
 ---
 

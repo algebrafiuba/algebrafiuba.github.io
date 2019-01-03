@@ -1,11 +1,12 @@
 ---
 title: Bucles y Lógica
+permalink: curso_bucles.html
 keywords: for, while, if
 last_updated: September 6, 2018
-tags: [getting_started]
-summary: "Uso de bucles y condicionales"
+tags:
+- getting_started
+summary: Uso de bucles y condicionales
 sidebar: curso_sidebar
-permalink: curso_bucles.html
 folder: curso
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: Funciones
+permalink: curso_funciones.html
 keywords: funcion
 last_updated: September 6, 2018
-tags: [getting_started]
-summary: "Definición y uso de funciones"
+tags:
+- getting_started
+summary: Definición y uso de funciones
 sidebar: curso_sidebar
-permalink: curso_funciones.html
 folder: curso
 ---
 

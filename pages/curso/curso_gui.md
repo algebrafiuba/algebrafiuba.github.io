@@ -1,11 +1,12 @@
 ---
 title: Interfaz Gráfica de Octave
+permalink: curso_gui.html
 keywords: instalación, windows, linux, descarga
 last_updated: September 3, 2018
-tags: [getting_started]
-summary: "Introducción y detalles importantes de la interfaz gráfica de GNU/Octave."
+tags:
+- getting_started
+summary: Introducción y detalles importantes de la interfaz gráfica de GNU/Octave.
 sidebar: curso_sidebar
-permalink: curso_gui.html
 folder: curso
 ---
 

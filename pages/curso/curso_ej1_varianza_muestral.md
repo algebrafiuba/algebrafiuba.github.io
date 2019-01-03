@@ -1,11 +1,12 @@
 ---
-title: "Ejercicio: Cálculo de la Varianza Muestral"
+title: 'Ejercicio: Cálculo de la Varianza Muestral'
+permalink: curso_ej1_varianza_muestral.html
 keywords: ejercicios, varianza, for
 last_updated: September 6, 2018
-tags: [getting_started]
-summary: "Bucles: Cálculo de la media y varianza muestral"
+tags:
+- getting_started
+summary: 'Bucles: Cálculo de la media y varianza muestral'
 sidebar: curso_sidebar
-permalink: curso_ej1_varianza_muestral.html
 folder: curso
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: Simulación de Reactores
+permalink: reactores.html
 keywords: reactor, edo, quimica
 last_updated: September 3, 2016
-tags: [getting_started]
-summary: "Simulación de un reactor químico"
+tags:
+- getting_started
+summary: Simulación de un reactor químico
 sidebar: aplicaciones_sidebar
-permalink: reactores.html
 folder: aplicaciones
 ---
 

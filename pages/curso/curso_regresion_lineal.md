@@ -1,11 +1,12 @@
 ---
-title: "Aplicación: Regresión Lineal"
+title: 'Aplicación: Regresión Lineal'
+permalink: curso_regresion_lineal.html
 keywords: ecuacion, regresion, lineal, sistema
 last_updated: September 5, 2018
-tags: [getting_started]
-summary: "Conceptos sobre la regresión lineal"
+tags:
+- getting_started
+summary: Conceptos sobre la regresión lineal
 sidebar: curso_sidebar
-permalink: curso_regresion_lineal.html
 folder: curso
 ---
 

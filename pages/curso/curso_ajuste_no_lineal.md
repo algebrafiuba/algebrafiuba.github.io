@@ -1,11 +1,12 @@
 ---
 title: Ajuste No Lineal
+permalink: curso_ajuste_no_lineal.html
 keywords: cuadrados, minimos, ls, ajuste
 last_updated: September 6, 2018
-tags: [getting_started]
-summary: "Teoría sobre Cuadrados Mínimos, y ajuste"
+tags:
+- getting_started
+summary: Teoría sobre Cuadrados Mínimos, y ajuste
 sidebar: curso_sidebar
-permalink: curso_ajuste_no_lineal.html
 folder: curso
 ---
 

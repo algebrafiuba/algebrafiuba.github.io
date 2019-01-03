@@ -1,11 +1,12 @@
 ---
 title: Variables
+permalink: curso_variables.html
 keywords: variables
 last_updated: September 5, 2018
-tags: [getting_started]
-summary: "Declaración y uso de variables. Comandos realcionados"
+tags:
+- getting_started
+summary: Declaración y uso de variables. Comandos realcionados
 sidebar: curso_sidebar
-permalink: curso_variables.html
 folder: curso
 ---
 

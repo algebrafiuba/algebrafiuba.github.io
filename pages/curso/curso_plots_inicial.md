@@ -1,11 +1,12 @@
 ---
 title: Introducción a los Gráficos
+permalink: curso_plots_inicial.html
 keywords: plot, graficar
 last_updated: September 4, 2018
-tags: [getting_started]
-summary: "Introducción a los gráficos bidimensionales"
+tags:
+- getting_started
+summary: Introducción a los gráficos bidimensionales
 sidebar: curso_sidebar
-permalink: curso_plots_inicial.html
 folder: curso
 ---
 

@@ -1,11 +1,12 @@
 ---
-title: "Ejercicio: Matriz definida positiva"
+title: 'Ejercicio: Matriz definida positiva'
+permalink: curso_ej1_definida_positiva.html
 keywords: vector, matriz
 last_updated: September 6, 2018
-tags: [getting_started]
-summary: "Matrices, submatrices, funciones, bucles"
+tags:
+- getting_started
+summary: Matrices, submatrices, funciones, bucles
 sidebar: curso_sidebar
-permalink: curso_ej1_definida_positiva.html
 folder: curso
 ---
 

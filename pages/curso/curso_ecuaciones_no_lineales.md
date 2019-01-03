@@ -1,11 +1,12 @@
 ---
 title: Ecuaciones No Lineales
+permalink: curso_ecuaciones_no_lineales.html
 keywords: ecuacion, no-lineal, sistema
 last_updated: September 6, 2018
-tags: [getting_started]
-summary: "Resolución de ecuaciones y sistemas de ecuaciones no lineales"
+tags:
+- getting_started
+summary: Resolución de ecuaciones y sistemas de ecuaciones no lineales
 sidebar: curso_sidebar
-permalink: curso_ecuaciones_no_lineales.html
 folder: curso
 ---
 

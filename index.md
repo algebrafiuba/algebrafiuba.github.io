@@ -1,9 +1,10 @@
 ---
-title: "Material de Álgebra II"
-keywords: algebra fiuba
-tags: [getting_started]
-sidebar: curso_sidebar
+title: Material de Álgebra II
 permalink: index.html
+keywords: algebra fiuba
+tags:
+- getting_started
+sidebar: curso_sidebar
 summary: Material para la cursada, desde conceptos primordiales a reflexiones importantes.
 ---
 

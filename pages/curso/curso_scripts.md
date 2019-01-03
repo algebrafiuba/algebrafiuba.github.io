@@ -1,11 +1,12 @@
 ---
 title: Scripts
+permalink: curso_scripts.html
 keywords: script
 last_updated: September 6, 2018
-tags: [getting_started]
-summary: "Uso de scripts"
+tags:
+- getting_started
+summary: Uso de scripts
 sidebar: curso_sidebar
-permalink: curso_scripts.html
 folder: curso
 ---
 

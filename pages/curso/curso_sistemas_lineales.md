@@ -1,11 +1,12 @@
 ---
 title: Sistemas Lineales
+permalink: curso_sistemas_lineales.html
 keywords: ecuacion, lineal, sistema
 last_updated: September 4, 2018
-tags: [getting_started]
-summary: "Resolución de sistemas lineales"
+tags:
+- getting_started
+summary: Resolución de sistemas lineales
 sidebar: curso_sidebar
-permalink: curso_sistemas_lineales.html
 folder: curso
 ---
 

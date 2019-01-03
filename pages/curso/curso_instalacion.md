@@ -1,11 +1,12 @@
 ---
 title: Instalación
+permalink: curso_instalacion.html
 keywords: instalación, windows, linux, descarga
 last_updated: September 3, 2018
-tags: [getting_started]
-summary: "Cómo instalar GNU/Octave en PC/Mac/Android"
+tags:
+- getting_started
+summary: Cómo instalar GNU/Octave en PC/Mac/Android
 sidebar: curso_sidebar
-permalink: curso_instalacion.html
 folder: curso
 ---
 

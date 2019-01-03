@@ -1,11 +1,12 @@
 ---
 title: Ejercicios para los Primeros Pasos
+permalink: curso_ej1_intro.html
 keywords: ejercicios
 last_updated: September 6, 2018
-tags: [getting_started]
-summary: "Motivación de los ejercicios en el tutorial"
+tags:
+- getting_started
+summary: Motivación de los ejercicios en el tutorial
 sidebar: curso_sidebar
-permalink: curso_ej1_intro.html
 folder: curso
 ---
 
